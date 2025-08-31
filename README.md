@@ -261,9 +261,6 @@ This project was designed with hackathon participants in mind:
 - Inspired by modern productivity tools like Notion, Linear, and Todoist
 - Icons provided by Lucide React
 - Images from Pexels
-- Powered by React, Tailwind CSS, and Supabase
-
----
 
 **Happy coding! 🚀**
 
