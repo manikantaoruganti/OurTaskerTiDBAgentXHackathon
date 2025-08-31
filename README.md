@@ -267,4 +267,4 @@ This project was designed with hackathon participants in mind:
 
 **Happy coding! 🚀**
 
-*Made with ❤️ for hackathons and student developers*
+*Made with ❤️ for students
