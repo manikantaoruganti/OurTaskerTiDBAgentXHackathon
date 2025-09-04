@@ -1,5 +1,5 @@
 /*
-  # OurTasker Database Schema
+  #  OurTasker Database Schema
 
   1. New Tables
     - `users` - User profiles and authentication
